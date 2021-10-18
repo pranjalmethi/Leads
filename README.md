@@ -1,4 +1,4 @@
-# Pipedrive
+# Leads
 Manage pipedrive leads
 
 To run the project npm should be installed on the target system.
